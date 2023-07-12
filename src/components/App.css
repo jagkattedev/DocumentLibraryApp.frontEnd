@@ -1,0 +1,35 @@
+.cardMaxHeight{
+    max-height: 450px;
+    min-height: 450px;
+}
+
+/* .cardDisplayHorizontal {float:left} */
+
+#pdf-controls {
+    display: none;
+}
+
+#proxy-renderer{
+    overflow-y: hidden;
+}
+
+#react-doc-viewer  #header-bar{
+    display: none;
+}
+
+.card{
+    min-width: 330px !important;
+}
+
+.modal-display-block{
+    display: block !important;
+}
+
+.modal-display-none{
+    display: none !important;
+}
+
+.modal{
+    background-color: #0005; 
+    background-blend-mode: darken;
+}
